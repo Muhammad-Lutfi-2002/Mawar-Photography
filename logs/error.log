@@ -1,0 +1,55 @@
+2024-10-23 22:18:44 - Error [8]: session_start(): Ignoring session_start() because a session is already active in C:\script\Fotografi\auth.php on line 2
+[23-Oct-2024 22:18:44 Asia/Jakarta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\script\Fotografi\auth.php on line 2
+2024-10-23 22:18:44 - Error [2]: require_once(C:\config.php): Failed to open stream: No such file or directory in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 22:18:44 Asia/Jakarta] PHP Warning:  require_once(C:\config.php): Failed to open stream: No such file or directory in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 22:18:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\config.php' (include_path='C:\xampp\php\PEAR') in C:\script\Fotografi\auth.php:3
+Stack trace:
+#0 C:\script\Fotografi\config.php(167): require_once()
+#1 C:\script\Fotografi\Login_Page.php(4): require_once('C:\\script\\Fotog...')
+#2 {main}
+  thrown in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 17:18:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 22
+[23-Oct-2024 17:18:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 23
+[23-Oct-2024 17:18:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 24
+[23-Oct-2024 17:18:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 25
+[23-Oct-2024 17:18:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 26
+2024-10-23 22:18:46 - Error [8]: session_start(): Ignoring session_start() because a session is already active in C:\script\Fotografi\auth.php on line 2
+[23-Oct-2024 22:18:46 Asia/Jakarta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\script\Fotografi\auth.php on line 2
+2024-10-23 22:18:46 - Error [2]: require_once(C:\config.php): Failed to open stream: No such file or directory in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 22:18:46 Asia/Jakarta] PHP Warning:  require_once(C:\config.php): Failed to open stream: No such file or directory in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 22:18:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\config.php' (include_path='C:\xampp\php\PEAR') in C:\script\Fotografi\auth.php:3
+Stack trace:
+#0 C:\script\Fotografi\config.php(167): require_once()
+#1 C:\script\Fotografi\Login_Page.php(4): require_once('C:\\script\\Fotog...')
+#2 {main}
+  thrown in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 17:18:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 22
+[23-Oct-2024 17:18:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 23
+[23-Oct-2024 17:18:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 24
+[23-Oct-2024 17:18:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 25
+[23-Oct-2024 17:18:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 26
+2024-10-23 22:18:59 - Error [8]: session_start(): Ignoring session_start() because a session is already active in C:\script\Fotografi\auth.php on line 2
+[23-Oct-2024 22:18:59 Asia/Jakarta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\script\Fotografi\auth.php on line 2
+2024-10-23 22:18:59 - Error [2]: require_once(C:\config.php): Failed to open stream: No such file or directory in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 22:18:59 Asia/Jakarta] PHP Warning:  require_once(C:\config.php): Failed to open stream: No such file or directory in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 22:18:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\config.php' (include_path='C:\xampp\php\PEAR') in C:\script\Fotografi\auth.php:3
+Stack trace:
+#0 C:\script\Fotografi\config.php(167): require_once()
+#1 C:\script\Fotografi\Login_Page.php(4): require_once('C:\\script\\Fotog...')
+#2 {main}
+  thrown in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 17:20:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 22
+[23-Oct-2024 17:20:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 23
+[23-Oct-2024 17:20:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 24
+[23-Oct-2024 17:20:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 25
+[23-Oct-2024 17:20:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\script\Fotografi\config.php on line 26
+2024-10-23 22:20:45 - Error [8]: session_start(): Ignoring session_start() because a session is already active in C:\script\Fotografi\auth.php on line 2
+[23-Oct-2024 22:20:45 Asia/Jakarta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\script\Fotografi\auth.php on line 2
+2024-10-23 22:20:45 - Error [2]: require_once(C:\config.php): Failed to open stream: No such file or directory in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 22:20:45 Asia/Jakarta] PHP Warning:  require_once(C:\config.php): Failed to open stream: No such file or directory in C:\script\Fotografi\auth.php on line 3
+[23-Oct-2024 22:20:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\config.php' (include_path='C:\xampp\php\PEAR') in C:\script\Fotografi\auth.php:3
+Stack trace:
+#0 C:\script\Fotografi\config.php(167): require_once()
+#1 C:\script\Fotografi\Login_Page.php(4): require_once('C:\\script\\Fotog...')
+#2 {main}
+  thrown in C:\script\Fotografi\auth.php on line 3
